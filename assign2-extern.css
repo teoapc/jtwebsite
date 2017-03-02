@@ -1,0 +1,436 @@
+body
+    {
+	margin: auto;
+	padding: 0;
+        min-width:800px;
+	max-width:1600px;
+        text-align:center;
+        float: none;
+        background: #fceabb; /* fallback for old browsers */
+        background: -webkit-linear-gradient(to left, #fceabb , #f8b500); /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to left, #fceabb , #f8b500); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+    }
+    
+header
+    {
+       background-color: #ffd585; 
+    }
+
+		
+#nav 
+    {
+    
+        list-style-type: none;
+        margin: 0;
+        padding-left: 27%;
+        overflow: hidden;
+        background-color: #984B43;
+    }
+
+#nav li 
+    {
+        float: left;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+	font-weight: bold;
+    
+  
+    }
+
+#nav li a 
+    {
+        position: relative;
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding-top: 25px;
+        padding-right: 5em;
+        padding-left: 5em;
+        padding-bottom: 25px;
+        text-decoration: none;
+    }
+
+#nav li a:hover:not(.active) 
+    {
+        background-color: #233237;
+    }
+
+#nav li active 
+    {
+        background-color: #233237;
+    }
+
+h1, h2, h6 
+    { 
+	font-family: 'Lato', sans-serif;
+	color: #000000;
+    }
+h3
+{
+        font-family: 'Lato', sans-serif;
+        text-color: #000000;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+}
+h4 
+{
+	font-family: 'Raleway', sans-serif;
+	text-color: #000000;
+	text-align: center;
+	font-size: 15px;
+}
+
+h5
+{
+        font-size: 10px;
+        font-family: 'Raleway', sans-serif;
+}
+
+.about-me
+{      
+        margin-top: 50px;
+        margin-bottom: 50px;
+        background-position: center;
+        border: 1px solid white;
+        background-color: white;
+        opacity: 0.9;
+        box-shadow: 0px 8px 10px #888888;
+}
+.about-me p 
+{
+        
+      	font-family: 'Lato', sans-serif;
+       	font-size: 16px;
+       	text-align: center; 
+        padding-left:8em;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-right: 8em;  
+}
+    
+.about-me p span
+{
+    	font-style: bold;
+    	font-size: 23px;
+}
+	    
+.please-like-me
+{
+    	padding-top: 5%;
+        padding-bottom: 5%;
+        margin-bottom: 5%;
+        background-position: center;
+        border: 1px solid white;
+       	background-color: white;
+        opacity: 0.9;
+       	box-shadow: 0px 8px 10px #888888; 
+}
+       
+.please-like-me p span
+{
+    	font-style: italic;
+    	font-size: 20px;
+}
+    
+.images
+{
+  	 margin: 0 auto;
+ 	 overflow: hidden;
+  
+}
+   
+.trailer
+{
+        position: relative;
+        display: inline-block;
+        /*images from: 
+        https://ccpopculture.com/2013/03/01/please-like-me-season-1-episodes-1-and-2/
+        https://thepophub.com/2014/08/03/please-like-me-season-2/
+        http://www.indiewire.com/2015/10/falls-best-tv-comedies-please-like-me-and-casual-are-a-sign-of-the-times-176208/*/
+}
+   
+.trailer a:hover
+{
+        opacity: .7;
+}
+   
+.please-like-me p
+{
+       font-family: 'Lato', sans-serif;
+       font-size: 16px;
+       text-align: center; 
+       padding-left:8em;
+       padding-top: 3em;
+       padding-bottom: 1em;
+       padding-right: 8em;
+        
+}
+   
+.form
+{	
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 25%;
+	margin-right: 25%;	
+	padding-top: 2%;
+        opacity: 0.9;
+        border: 1px solid white;
+        background-color: white;
+        box-shadow: 0px 8px 10px #888888;
+}
+
+#contact-submit
+{
+    
+        background-color: #984B43;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: 'Raleway', sans-serif;
+        font-weight: bold;
+}
+
+.form-specs 
+{
+        border-bottom: 1px solid #efefef;
+        margin: 5px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-align: center;
+        font-family: 'Lato', sans-serif;	
+}
+
+select
+{
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        border: 1px solid #848484;
+        outline: 0;
+        height: 25px;
+        width: 275px;
+        font-family: lucida console;
+        background-color: #fff;
+        cursor: pointer;
+}
+
+textarea {
+    
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        border: 1px solid #848484;
+        outline: 0;
+        height: 50px;
+        width: 275px;
+        resize: none;
+        font-family: lucida console;
+
+
+} 
+
+input[type=text], input[type=email], input[type=tel], input[type=date], input[type=number], input[type=time]
+{
+	-webkit-border-radius: 5px;
+    	-moz-border-radius: 5px;
+   	 border-radius: 5px;
+    	 border: 1px solid #848484;
+   	 outline: 0;
+	 height: 25px;
+   	 width: 275px;
+	 font-family: lucida console;
+}
+
+.shop-content
+{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        background-position: center;
+        border: 1px solid white;
+        background-color: white;
+        opacity: 0.9;
+        box-shadow: 0px 8px 10px #888888;
+       
+}
+
+.season
+{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #984B43;
+        position: relative;
+        display: inline-block;
+        font-family: 'Lato', sans-serif;
+        padding-left: 1em;
+        padding-right: 1em;
+}
+
+summary
+{
+        font-size:18px
+}
+
+.more-details
+{
+        font-size: 14px;
+}
+
+.extern-shop a
+{
+        background-color: #233237;
+        margin: 20px;
+        padding: 5px;
+        text-decoration: none;
+        color: #FFFFFF;
+        font-family: 'Lato', sans-serif;
+        font-size: 15px;
+        border-radius: 5px;
+}
+
+.extern-shop a:hover
+{
+        opacity: .7;
+}
+
+.price
+{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8px;
+}
+
+.quantity
+{
+	-webkit-border-radius: 5px;
+    	-moz-border-radius: 5px;
+   	 border-radius: 5px;
+    	 border: 1px solid #848484;
+   	 outline: 0;
+	 height: 25px;
+   	 width: 25px;
+	 font-family: Lucida Console;
+}
+
+#submit-shop
+{
+        background-color: #984B43;
+        color: white;
+        padding: 14px 20px;
+        margin: 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-align: center;
+}
+
+.cart
+{
+    margin: 5px;
+    position: relative;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    padding: 1em;
+}
+
+table.cart-table
+{
+    border-collapse: collapse;
+    
+}
+
+table.cart-table, td, th {
+    border: 1px dotted #984B43;
+   
+}
+.checkout-specs
+{
+    border-bottom: 1px solid #efefef;
+    margin: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    float: clear;
+    
+    
+    
+}
+
+.checkout
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-position: center;
+    border: 1px solid white;
+    background-color: white;
+    opacity: 0.9;
+    box-shadow: 0px 8px 10px #888888;
+    
+}
+
+#monthdropdown{
+    
+    width: 135px;
+}
+
+#yeardropdown{
+    
+    width: 135px;
+}
+
+#submit-checkout {
+    
+    background-color: #984B43;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    
+    
+}
+#receipt
+{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #984B43;
+    font-family: 'Lato', sans-serif;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 5px;
+}
+
+footer
+{
+   	margin: 0;
+        font-family: 'Raleway', sans-serif;
+        font-size: 15px;  
+        color: #000000;
+	text-align:center;
+	justify-content: center;
+}
+
+#icons
+{
+    /*icons taken from: http://yemista.com/wp-content/uploads/2014/04/65-FREE-SOCIAL-MEDIA-ICONS.jpg*/
+    padding-top: .5em;
+   
+}
+
+#icons a:hover
+{
+        opacity: .7;
+    
+}

@@ -1,0 +1,127 @@
+
+Order Details
+First Name: 
+Last Name: 
+Address: 
+E-mail: 
+Phone Number: 
+Delivery Method: 
+Season 1 Quantity: 1
+Media Type: DVD
+Season 1 Price: $17
+Season 2 Quantity: 
+Media Type: Blu-Ray
+Season 2 Price: $0
+Season 3 Quantity: 
+Media Type: No media type chosen
+Season 3 Price: $0
+Total: $
+-----------------------------------------
+Order Details
+First Name: 
+Last Name: 
+Address: 
+E-mail: 
+Phone Number: 
+Delivery Method: 
+Season 1 Quantity: 1
+Media Type: DVD
+Season 1 Price: $17
+Season 2 Quantity: 
+Media Type: No media type chosen
+Season 2 Price: $0
+Season 3 Quantity: 2
+Media Type: DVD
+Season 3 Price: $53.4
+Total: $
+-----------------------------------------
+Order Details
+First Name: Ummil Syazwina
+Last Name: Tengku
+Address: 716/555 Swanston Street
+E-mail: xsyazwinazx@gmail.com
+Phone Number: 0449721109
+Delivery Method: Free
+Season 1 Quantity: 1
+Media Type: DVD
+Season 1 Price: $17
+Season 2 Quantity: 1
+Media Type: DVD
+Season 2 Price: $22.5
+Season 3 Quantity: 
+Media Type: No media type chosen
+Season 3 Price: $0
+Total: $39.5
+-----------------------------------------
+Order Details
+First Name: jj
+Last Name: jj
+Address: 
+E-mail: jhon@jhon.com
+Phone Number: 0433080271
+Delivery Method: RegularCourier
+Season 1 Quantity: 1
+Media Type: No media type chosen
+Season 1 Price: $17
+Season 2 Quantity: 1
+Media Type: No media type chosen
+Season 2 Price: $22.5
+Season 3 Quantity: 2
+Media Type: No media type chosen
+Season 3 Price: $53.4
+Total: $99.9
+-----------------------------------------
+Order Details
+First Name: 
+Last Name: 
+Address: 
+E-mail: 
+Phone Number: 
+Delivery Method: 
+Season 1 Quantity: 
+Media Type: No media type chosen
+Season 1 Price: $0
+Season 2 Quantity: 
+Media Type: DVD
+Season 2 Price: $0
+Season 3 Quantity: 
+Media Type: No media type chosen
+Season 3 Price: $0
+Total: $
+-----------------------------------------
+Order Details
+First Name: Ummil Syazwina
+Last Name: Tengku
+Address: 716/555 Swanston Street
+E-mail: xsyazwinazx@gmail.com
+Phone Number: 0449721109
+Delivery Method: ExpressCourier
+Season 1 Quantity: 1
+Media Type: Blu-Ray
+Season 1 Price: $17
+Season 2 Quantity: 1
+Media Type: Blu-Ray
+Season 2 Price: $22.5
+Season 3 Quantity: 
+Media Type: No media type chosen
+Season 3 Price: $0
+Total: $50
+-----------------------------------------
+Order Details
+First Name: Ummil Syazwina
+Last Name: Tengku
+Address: 716/555 Swanston Street
+E-mail: xsyazwinazx@gmail.com
+Phone Number: 0449721109
+Delivery Method: ExpressCourier
+Season 1 Quantity: 2
+Media Type: DVD
+Season 1 Price: $34
+Season 2 Quantity: 1
+Media Type: Blu-Ray
+Season 2 Price: $22.5
+Season 3 Quantity: 1
+Media Type: DVD
+Season 3 Price: $26.7
+Total: $93.7
+-----------------------------------------
